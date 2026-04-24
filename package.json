@@ -1,0 +1,42 @@
+{
+  "name": "laravel-template-jpz",
+  "version": "1.0.0",
+  "description": "Scaffold a Laravel framework template with Blade, Vite, Tailwind CSS, SQLite defaults, and a health-check API.",
+  "main": "src/index.js",
+  "bin": {
+    "laravel-template-jpz": "src/index.js",
+    "laravel-template": "src/index.js"
+  },
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "node --check src/index.js && node src/index.js --help"
+  },
+  "files": [
+    "src"
+  ],
+  "keywords": [
+    "cli",
+    "create",
+    "template",
+    "laravel",
+    "framework",
+    "php",
+    "blade",
+    "vite",
+    "tailwindcss"
+  ],
+  "author": "JohnPaulZer",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnPaulZer/Laravel-Template.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JohnPaulZer/Laravel-Template/issues"
+  },
+  "homepage": "https://github.com/JohnPaulZer/Laravel-Template#readme",
+  "type": "commonjs",
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
