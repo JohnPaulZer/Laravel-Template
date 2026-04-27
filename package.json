@@ -1,6 +1,6 @@
 {
   "name": "laravel-template-jpz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Scaffold a Laravel framework template with Blade, Vite, Tailwind CSS, SQLite defaults, and a health-check API.",
   "main": "src/index.js",
   "bin": {
